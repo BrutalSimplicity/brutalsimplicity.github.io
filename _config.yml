@@ -8,10 +8,10 @@
 # Site settings
 title: Brutal Simplicity
 email: kory.taborn@gmail.com
-description: Just add one, and try again.
+description: The goal, not the starting point.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://brutalsimplicity.github.io/" # the base hostname & protocol for your site
 github_username:  brutalsimplicity
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
